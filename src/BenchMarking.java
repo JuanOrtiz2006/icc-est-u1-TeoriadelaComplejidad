@@ -24,7 +24,6 @@ public class BenchMarking {
             System.out.println();
         }
 
-
         GraficaOrdenamientos.generar(resultados);
     }
 
